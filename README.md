@@ -2,10 +2,13 @@
 ##### **Travel Agency Management System** is the solution to maintain the process of organizing trip information and managing customer bookings in an easier and more convenient way.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Language Used: C
- 
+
+ ### Login as Administrator 👩‍✈️
+ * Username: FARIHA
+ * Password: FNH
 
 ### Features
-* Admin Portal <br>
+* Administrator Portal <br>
  ![](images/Admin%20Portal.png)
 
 * View All Locations <br>
