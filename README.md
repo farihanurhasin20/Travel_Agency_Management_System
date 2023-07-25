@@ -20,5 +20,5 @@
 * Make a Booking <br>
  ![](images/booked.png)
 
-#### Developer: <a href="#">Fariha Nur Hasin</a>
+#### Developer: <a href="https://github.com/farihanurhasin20">Fariha Nur Hasin</a>
 
